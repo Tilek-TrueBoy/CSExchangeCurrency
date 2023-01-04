@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\bin\Debug\CSExchangeCurrency.exe.config
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\bin\Debug\CSExchangeCurrency.exe
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\bin\Debug\CSExchangeCurrency.pdb
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\obj\Debug\CSExchangeCurrency.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\obj\Debug\CSExchangeCurrency.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\obj\Debug\CSExchangeCurrency.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\obj\Debug\CSExchangeCurrency.exe
+C:\Users\user\Desktop\Секретный Папка\CS\CSExchangeCurrency\CSExchangeCurrency\obj\Debug\CSExchangeCurrency.pdb
